@@ -47,10 +47,11 @@ This project implements a smart irrigation controller using the STM32F4 series M
 5. Observe LEDs changing based on sensor conditions and button press.
 
 ## Repository Structure  
-/IoT-Smart-Irrigation-System/
+IoT-Smart-Irrigation-System/
 │
-├── main.c # Core application code
-├── Embedded Project.uvprojx # Keil uVision project file
-├── .gitignore # Excludes build/temp files
-├── README.md # This file
-└── RTE/ # Keil Runtime Environment files (ignored)
+├── main.c                      # Core application code  
+├── Embedded Project.uvprojx    # Keil uVision project file  
+├── .gitignore                  # Excludes build/temp files  
+├── README.md                   # Project documentation  
+└── RTE/                        # Keil Runtime Environment files (ignored)
+
