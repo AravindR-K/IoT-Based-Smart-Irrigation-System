@@ -48,8 +48,8 @@ This project implements a smart irrigation controller using the STM32F4 series M
 
 ## Repository Structure  
 IoT-Smart-Irrigation-System/
-
 │
+
 ├── main.c                      # Core application code  
 ├── Embedded Project.uvprojx    # Keil uVision project file  
 ├── .gitignore                  # Excludes build/temp files  
