@@ -1,0 +1,20 @@
+# Keil uVision generated files
+*.uvguix.*
+*.uvoptx
+*.axf
+*.lst
+*.o
+*.d
+*.crf
+*.htm
+*.map
+
+# Keil build output folders
+/DebugConfig/
+/Objects/
+/Listings/
+
+# Temporary files
+*.bak
+*.tmp
+*.log
